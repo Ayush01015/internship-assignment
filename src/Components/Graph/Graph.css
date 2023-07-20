@@ -1,0 +1,9 @@
+
+.graph-plot{
+    width: 100%;
+    margin-bottom: 3rem;
+}
+
+.graph-plot > img{
+    width: 100%;
+}
