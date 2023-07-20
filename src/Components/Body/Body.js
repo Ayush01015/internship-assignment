@@ -3,7 +3,7 @@ import Profile from "../../assets/img/man.png";
 import Slider from "@mui/material/Slider";
 import { useTheme } from "@mui/material/styles";
 import ProgressBar from "../ProgressBar/ProgressBar";
-
+import Graph from "../Graph/Graph";
 import "./Body.css";
 const Body = () => {
   const [sliderValue, setSliderValue] = useState(0);
@@ -126,7 +126,8 @@ const Body = () => {
           </div>
         </div>
         <div className="sub-section graph">
-          <p>GRAPH</p>
+        {/* remove graph class from here and start making Graph component */}
+          <Graph/>
         </div>
         <div className="sub-section">
           <p className="md-xl">How do I Compare to my peers?</p>
