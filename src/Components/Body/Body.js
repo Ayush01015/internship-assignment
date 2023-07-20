@@ -233,7 +233,7 @@ const Body = () => {
       </div>
       <div className="extras">
             <div>
-                <div class="vertical-line"></div>
+                <div className="vertical-line"></div>
             </div>
             <div className="extra-width">
                 <p>Are you considering a having <span className="bold">Housing Advance?</span> </p>

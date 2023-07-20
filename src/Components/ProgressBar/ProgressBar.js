@@ -84,8 +84,8 @@ const ProgressBar = () => {
           >
             <defs>
               <linearGradient id="GradientColor">
-                <stop offset="0%" stop-color="#EFF54D" />
-                <stop offset="100%" stop-color="#00AC61" />
+                <stop offset="0%" stopColor="#EFF54D" />
+                <stop offset="100%" stopColor="#00AC61" />
               </linearGradient>
             </defs>
             <circle cx={cx} cy={cy} r={r} strokeLinecap="round" />
@@ -107,8 +107,8 @@ const ProgressBar = () => {
           >
             <defs>
               <linearGradient id="GradientColor">
-                <stop offset="0%" stop-color="#EFF54D" />
-                <stop offset="100%" stop-color="#00AC61" />
+                <stop offset="0%" stopColor="#EFF54D" />
+                <stop offset="100%" stopColor="#00AC61" />
               </linearGradient>
             </defs>
             <circle cx={cx} cy={cy} r={r} strokeLinecap="round" />
@@ -130,8 +130,8 @@ const ProgressBar = () => {
           >
             <defs>
               <linearGradient id="GradientColor">
-                <stop offset="0%" stop-color="#EFF54D" />
-                <stop offset="100%" stop-color="#00AC61" />
+                <stop offset="0%" stopColor="#EFF54D" />
+                <stop offset="100%" stopColor="#00AC61" />
               </linearGradient>
             </defs>
             <circle cx={cx} cy={cy} r={r} strokeLinecap="round" />
